@@ -1,0 +1,5 @@
+Kullanıcı Adı: Amiral
+Şifre: 252
+
+Şifreyi uygulamanın ayarlar bölümünden değiştirebilirsiniz. 
+-Miraç Sarsık
